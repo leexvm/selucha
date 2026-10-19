@@ -1,9 +1,9 @@
 {
-  "id": "org.tunombre.wrestling",
+  "id": "org.leexvm.wrestling",
   "version": "1.0.0",
   "name": "Wrestling Events",
-  "description": "Mi catálogo personal de eventos de lucha libre",
-  "resources": ["catalog", "stream"],
+  "description": "Mi catálogo personal de eventos",
+  "resources": ["catalog", "meta", "stream"],
   "types": ["movie"],
   "catalogs": [
     {
