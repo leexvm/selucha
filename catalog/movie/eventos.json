@@ -1,10 +1,12 @@
-[
-  {
-    "id": "evento-demo-001",
-    "type": "movie",
-    "name": "Evento de Prueba: Dynamite",
-    "poster": "https://i.imgur.com/vHq4WqP.jpg",
-    "description": "Evento de prueba para configurar el addon en Nuvio. Incluye el enlace de Dailymotion de ejemplo.",
-    "releaseInfo": "2026"
-  }
-]
+{
+  "metas": [
+    {
+      "id": "evento-demo-001",
+      "type": "movie",
+      "name": "Evento de Prueba: Dynamite",
+      "poster": "https://i.imgur.com/vHq4WqP.jpg",
+      "description": "Evento de prueba para configurar el addon en Nuvio.",
+      "releaseInfo": "2026"
+    }
+  ]
+}
