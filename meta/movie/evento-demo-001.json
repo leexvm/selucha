@@ -3,7 +3,7 @@
     "id": "evento-demo-001",
     "type": "movie",
     "name": "Evento de Prueba: Dynamite",
-    "poster": "https://i.imgur.com/vHq4WqP.jpg",
+    "poster": "https://images.unsplash.com/photo-1542157585-ef28a3770f19?w=500&q=80",
     "description": "Evento de prueba para configurar el addon en Nuvio.",
     "releaseInfo": "2026"
   }
