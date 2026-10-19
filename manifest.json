@@ -1,0 +1,15 @@
+{
+  "id": "org.tunombre.wrestling",
+  "version": "1.0.0",
+  "name": "Wrestling Events",
+  "description": "Mi catálogo personal de eventos de lucha libre",
+  "resources": ["catalog", "stream"],
+  "types": ["movie"],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "eventos",
+      "name": "Eventos de Lucha Libre"
+    }
+  ]
+}
